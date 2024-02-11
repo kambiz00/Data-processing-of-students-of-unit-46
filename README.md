@@ -6,9 +6,7 @@ This project focuses on the analysis and visualization of student performance ba
 
 ## Project Structure
 
-- **`data/`**: Contains the dataset file (e.g., `student_data.csv`).
-- **`notebooks/`**: Jupyter notebooks for data exploration, analysis, and visualization.
-- **`images/`**: Directory to store images and visualizations generated during the analysis.
+- **`data/`**: Contains the dataset file (e.g., `student_data.xlsx`).
 - **`requirements.txt`**: List of Python packages required for the project.
 - **`README.md`**: Project documentation with an overview, instructions, and findings.
 
@@ -17,13 +15,13 @@ This project focuses on the analysis and visualization of student performance ba
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/student-performance-analysis.git
+   git clone https://github.com/kambiz00/Data-processing-of-students-of-unit-46.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd student-performance-analysis
+   cd Data-processing-of-students-of-unit-46
    ```
 
 3. Install the required packages:
@@ -33,12 +31,9 @@ This project focuses on the analysis and visualization of student performance ba
    ```
 
 ## Usage
+ Execute the cells in order to generate visualizations and insights.
 
-1. Open Jupyter notebooks in the `notebooks/` directory to explore, analyze, and visualize the data.
 
-2. Execute the cells in order to generate visualizations and insights.
-
-3. View the generated visualizations in the `images/` directory.
 
 ## Project Findings
 
