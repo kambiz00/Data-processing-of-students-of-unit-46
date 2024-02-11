@@ -51,5 +51,5 @@ This project focuses on the analysis and visualization of student performance ba
 
 ## Acknowledgments
 
-This project was created by [Kambiz]. Feel free to explore, modify, and contribute.
+This project was created by [Kambiz]. Feel free to explore, modify, and contribute👍.
 ---
