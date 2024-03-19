@@ -1,5 +1,3 @@
-# TODO :    - Load the dataset (assuming it's in a CSV or Excel format) into a Pandas DataFrame. # DONE
-#           - Check for missing values, outliers, and general data statistics. # DONE
 import pandas as pd
 
 

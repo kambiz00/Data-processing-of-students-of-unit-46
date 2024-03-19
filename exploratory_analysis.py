@@ -1,19 +1,3 @@
-# TODO : - Calculate and visualize basic statistics for the
-#         'AGE,' 'SCORE,' and 'TERM' columns. This can include
-#          mean, median, mode, and standard deviation. #DONE
-
-# TODO :   - Explore the distribution of genders in the dataset.
-#          - Compare the average scores of male and female students using visualizations (e.g., bar chart). #DONE
-
-# TODO :    - Analyze the distribution of students across academic years.
-#           - Visualize the average scores of students in each academic year. #DONE
-
-# TODO :    - Use correlation coefficients to examine relationships between variables (e.g., age and score).
-#           - Create a heatmap to visualize correlations. #DONE
-
-# TODO :    - Visualize the distribution of scores using a histogram or kernel density plot. #DONE
-
-
 import matplotlib.pyplot as plt
 import seaborn as sns
 

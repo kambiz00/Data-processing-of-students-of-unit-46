@@ -1,6 +1,3 @@
-# TODO : - Explore how students perform in different terms.
-#        - Visualize the average scores per term. #DONE
-
 import seaborn as sns
 import matplotlib.pyplot as plt
 

@@ -1,4 +1,3 @@
-# TODO : - This is my final step create an interactive dashboard to present your findings #DONE
 import dash
 from dash import dcc, html
 from dash.dependencies import Input, Output

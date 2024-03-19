@@ -67,15 +67,18 @@ if __name__ == "__main__":
             5: score_distribution,
             6: generate_insights,
             7: term_performance,
-            8: create_dashboard,
+            8: create_dashboard,  # BUG FOUND !
         }
 
         if user_choice in analysis_functions:
-            cmd_execute(analysis_functions[user_choice], df)
+            if analysis_functions[user_choice] == generate_insights:
+                cmd_execute(analysis_functions[user_choice])
+            else:
+                cmd_execute(analysis_functions[user_choice], df)
         elif user_choice == 9:
             print("Exiting the program. Goodbye!")
             break
 
-    # APP VERSION : BETA
+    # APP VERSION : VERSION 1.0
 
-# TODO : UPDATE THE APP TO VERSION 1.0
+# TODO : UPDATE THE APP TO VERSION 1.1

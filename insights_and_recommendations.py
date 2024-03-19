@@ -1,5 +1,3 @@
-# TODO :    - Summarize key insights from your analysis.
-#           - Provide recommendations or suggestions based on the patterns observed. #DONE
 
 def generate_insights():
     """
